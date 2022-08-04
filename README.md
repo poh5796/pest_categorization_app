@@ -12,3 +12,5 @@ alternatively, download Expo Go "https://d1ahtucjixef4r.cloudfront.net/Exponent-
 to run this application in Expo Go, make sure the current internet connection is private instead of public. In Win 10, go to "Settings" -> "Network & Internet" -> Select "Properties" of current connected network (e.g. "Jame's Family") -> In "Network Profile" section, choose "Private" if the default option is in "Public".
 
 next, in your mobile device, go to "Settings" -> "Apps" -> "Special Access" -> "Appear on top" -> Toggle to "On" for Expo Go (Samsung Galaxy 9+)
+
+after the steps above, use Expo Go to scan the QR code generated when the server started with "expo start" command in terminal.
