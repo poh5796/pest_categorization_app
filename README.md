@@ -1,4 +1,4 @@
-# expo_test_5
+# pest categorization app
 in visual studio code, run a new terminal with "Ctrl + Shift + `".
 
 run "npm install" to install the "node_modules" file
